@@ -1,0 +1,5 @@
+git config --global user.name "DaniilPrakapenkau"
+git config --global user.email "dprakapenkau@exadel.com"
+cd /d D:\Tasks\git_task_1
+git init
+git remote add origin https://github.com/DaniilPrakapenkau/task1.git
